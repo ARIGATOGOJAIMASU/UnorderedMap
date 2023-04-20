@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;::__is_long() const:string">
+      </ContextState>
+      <ContextState
+         contextName = "Un_order_map&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;::insert(std::__1::pair&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;):Un_order_map.hpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "p[hashTable(element.first)]">
+            </PersistentString>
+            <PersistentString
+               value = "hashTable(element.first)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "std::__1::char_traits&lt;char&gt;::length(char const*):__string">
+      </ContextState>
+      <ContextState
+         contextName = "Un_order_map&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;::Un_order_map():Un_order_map.hpp">
+      </ContextState>
+      <ContextState
+         contextName = "Un_order_map&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;::expandArrSize():Un_order_map.hpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "first">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Un_order_map&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;::erase(int):Un_order_map.hpp">
+      </ContextState>
+      <ContextState
+         contextName = "Node&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;::CompareFirst(int):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "element.first">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Un_order_map&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;::find(int):Un_order_map.hpp">
+      </ContextState>
+      <ContextState
+         contextName = "Node&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;::AddNext(std::__1::pair&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Un_order_map&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;::hashTable(int):Un_order_map.hpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "hashIdx(first) % capacity_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Un_order_map&lt;int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; &gt;::Un_order_map():Un_order_map.hpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "pNodes_*">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
